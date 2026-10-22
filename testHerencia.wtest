@@ -1,0 +1,5 @@
+import herencia.*
+
+describe "group of tests for pepita" {
+
+}
